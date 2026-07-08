@@ -2,7 +2,7 @@
 Reddit doesn't allow links, I will paste them here.
 
 1. https://www.reddit.com/r/batteryguru/comments/1s1dtom/how_do_i_find_which_apps_are_draining_battery_in/
-By u/S-m-a-r-t-y on Reddit.com
+By u/S-m-a-r-t-y on Reddit.com/r/batteryguru
 
 "BatteryStats.
 GSam Battery Monitor.
