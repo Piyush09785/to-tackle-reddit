@@ -2,8 +2,9 @@
 Reddit doesn't allow links, I will paste them here.
 
 1. https://www.reddit.com/r/batteryguru/comments/1s1dtom/how_do_i_find_which_apps_are_draining_battery_in/
+By u/S-m-a-r-t-y on Reddit.com
 
-"BetterBatteryStats.
+"BatteryStats.
 GSam Battery Monitor.
 
 Use Shizuku, with Wireless or USB Debugging to use ADB (with AShell F-Droid) for BetterBatteryStats. But this app was less useful than the later app.
